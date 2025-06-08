@@ -1,2 +1,2 @@
-This is my First Project
-Author~ Papu
+This is my First small program using ~ Python
+
