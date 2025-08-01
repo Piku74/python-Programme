@@ -70,4 +70,4 @@ Feel free to modify the design and explore your creativity!
 
 ---
 
-Enjoy your coding journey! 🐢🎨
+Enjoy your coding journey! 🐢
